@@ -1,4 +1,4 @@
-# FoodRunner2 
+# FoodRunner 
 The popularity of restaurants is ever increasing. Accordingly, the number of restaurant-goers has
 increased too. Taking advantage of the advancement in technology, this project aims to apply a
 digital touch to the way restaurants function, in order to increase its popularity among customers.
